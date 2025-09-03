@@ -1,0 +1,8 @@
+Language:                           Cpp
+BasedOnStyle:                       LLVM
+AllowShortFunctionsOnASingleLine:   Empty
+BreakBeforeBraces:                  Allman
+ColumnLimit:                        120
+IndentWidth:                        4
+UseTab:                             Never
+PointerAlignment:                   Left
