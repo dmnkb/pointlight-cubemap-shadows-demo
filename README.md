@@ -1,3 +1,5 @@
+![Preview](docs/preview.gif)
+
 # Pointlight Cubemap Shadows Demo
 
 Entirely vibe coded referencing [https://learnopengl.com/](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows) showing **point light shadow mapping with cubemap arrays**.
